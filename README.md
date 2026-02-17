@@ -66,8 +66,8 @@ Configuration of this script consists of two files: [config.json](https://github
 
 ```Javascript
 {
-   "owner": "6285xxxxxxxx",
-   "owner_name": "Wildan Izzudin",
+   "owner": "6283151261415",
+   "owner_name": "rafzbotz",
    "database": "data",
    "limit": 15, // Usage limit (default: 15)
    "ram_limit": "900mb",
@@ -84,7 +84,7 @@ Configuration of this script consists of two files: [config.json](https://github
    "pairing": {
       "state": true,  // Set to "true" if you want to use the pairing code dan "false" to use scan qr
       "number": 6285xxxxxxxx, // Your bot number
-      "code": "NEOXRBOT" // Custom pairing code
+      "code": "rafzbotz" // Custom pairing code
    }
 }
 ```
